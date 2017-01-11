@@ -4,7 +4,7 @@ Created on Thu Oct 27 09:54:42 2016
 
 @author: py15asm
 """
-
+import math
 import os, os.path
 import glob
 import numpy as np
@@ -12,7 +12,7 @@ from os import listdir
 import numpy as np
 import matplotlib.pyplot as plt
 import pylab
-import math
+
 
 #path of the two csv files, that should be called washed and nwashed
 
